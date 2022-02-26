@@ -1,8 +1,0 @@
-stream,slope,elevation,vegetation
-FALSE,steep,high,chapparal
-TRUE,moderate,low,riparian
-TRUE,steep,medium,riparian
-FALSE,steep,medium,chapparal
-FALSE,flat,high,conifer
-TRUE,steep,highest,conifer
-TRUE,steep,high,chapparal
