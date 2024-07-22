@@ -12,19 +12,19 @@ This notebook introduces Scikit-Learn, covering its installation, data structure
 Focusing on basic machine learning models, this notebook guides users through the process of training and testing models. It explains key concepts like data splitting, model training, and performance evaluation using a linear regression example.
 
 ### SK2_Feature_Selection.ipynb
-Feature selection techniques are crucial for improving model performance. This notebook covers various methods such as univariate selection, recursive feature elimination, and tree-based selection, with practical examples demonstrating their implementation.
+Feature selection techniques are critical for improving model performance. This notebook covers various methods such as univariate selection, recursive feature elimination, and tree-based selection, with practical examples demonstrating their implementation.
 
 ### SK3_Model_Evaluation.ipynb
 This notebook dives into model evaluation metrics for classification and regression models, including accuracy, precision, recall, F1-score, and mean squared error. It also explains cross-validation and its importance in assessing model performance.
 
 ### SK4_HyperParameter_Tuning.ipynb
-Hyperparameter tuning is essential for optimizing machine learning models. This notebook explores grid search and random search techniques using Scikit-Learn’s `GridSearchCV` and `RandomizedSearchCV` classes, showing how to enhance model performance through proper tuning.
+Hyperparameter tuning is essential for optimising machine learning models. This notebook explores grid search and random search techniques using Scikit-Learn’s `GridSearchCV` and `RandomizedSearchCV` classes, showing how to enhance model performance through proper tuning.
 
 ### SK5_Advanced_Topics.ipynb
 Covering advanced machine learning topics, this notebook introduces ensemble methods (bagging and boosting) and dimensionality reduction techniques (PCA and t-SNE). Detailed explanations and examples help users understand and apply these advanced methods.
 
 ### SK6_Clustering.ipynb
-This notebook explains clustering, an unsupervised learning technique, using algorithms such as K-means, hierarchical clustering, and DBSCAN. Practical examples and visualizations illustrate how these algorithms work and their applications.
+This notebook explains clustering, an unsupervised learning technique, using algorithms such as K-means, hierarchical clustering, and DBSCAN. Practical examples and visualisations illustrate how these algorithms work and their applications.
 
 ### SK7_Neural_Networks.ipynb
 Introducing neural networks, this notebook covers the basics of building and training neural networks using Scikit-Learn’s MLPClassifier. It includes an example of a simple neural network for classification tasks.
