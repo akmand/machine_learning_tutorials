@@ -21,19 +21,19 @@ This notebook dives into model evaluation metrics for classification and regress
 Hyperparameter tuning is essential for optimising machine learning models. This notebook explores grid search and random search techniques using Scikit-Learn’s `GridSearchCV` and `RandomizedSearchCV` classes, showing how to enhance model performance through proper tuning.
 
 ### SK5_Advanced_Topics.ipynb
-Covering advanced machine learning topics, this notebook introduces ensemble methods (bagging and boosting) and dimensionality reduction techniques (PCA and t-SNE). Detailed explanations and examples help users understand and apply these advanced methods.
+Covering advanced machine learning topics, this notebook discusses model pipelines, statistical model comparison,  model deployment, and saving to and loading models from local storage. 
 
 ### SK6_Clustering.ipynb
-This notebook explains clustering, an unsupervised learning technique, using algorithms such as K-means, hierarchical clustering, and DBSCAN. Practical examples and visualisations illustrate how these algorithms work and their applications.
+This notebook explains clustering, an unsupervised learning technique, using algorithms including K-means and spectral clustering. Practical examples and visualisations illustrate how these algorithms work and their applications.
 
 ### SK7_Neural_Networks.ipynb
-Introducing neural networks, this notebook covers the basics of building and training neural networks using Scikit-Learn’s MLPClassifier. It includes an example of a simple neural network for classification tasks.
+Introducing neural networks, this notebook covers the basics of building and training neural networks using Scikit-Learn and Tensorflow. It includes an example of a simple neural network for classification tasks.
 
 ### SK8_LightGBM.ipynb
-LightGBM is a powerful gradient boosting framework. This notebook provides an introduction to LightGBM, demonstrating how to train and evaluate models using this library. Practical examples highlight its efficiency and performance benefits.
+LightGBM is a powerful gradient boosting framework. This notebook provides an introduction to LightGBM, demonstrating how to train and evaluate models using this library. Practical examples highlight its efficiency and performance benefits. This notebook also covers hyperparameter finetuning using Optuna (best in the business) and feature importance using the popular SHAP module.
 
 ### SK9_Forecasting.ipynb
-Focusing on time series forecasting, this notebook covers essential techniques and models for making predictions based on temporal data. It includes examples of different forecasting methods and their implementation using Scikit-Learn.
+Focusing on time series forecasting, this notebook covers essential techniques and models for making predictions based on temporal data using the Facebook Prophet Python module. 
 
 ### Case_Study1_Predicting_Income_Status.ipynb
 This case study uses a real-world dataset to predict income status based on various features. It demonstrates the complete machine learning workflow, from data preprocessing and feature selection to model training, evaluation, and interpretation.
