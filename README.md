@@ -2,7 +2,7 @@
 
 Welcome to the Machine Learning Tutorials repository! This collection of Jupyter notebooks is designed to help you get started with machine learning using Python and Scikit-Learn. Whether you're a beginner or looking to deepen your understanding, these tutorials cover a range of topics from basic concepts to advanced techniques. These notebooks were written by yours truly, David Akman, and are my own work for the most part, except SK5 - Advanced Topics, for which my good friend [Chuck Wong](https://www.linkedin.com/in/yong-kai-wong/) contributed. They have been tested with Python 3.11.
 
-## Table of Content
+## Table of Contents
 
 
 ### SK0_Scikit_Learn_Introduction.ipynb
