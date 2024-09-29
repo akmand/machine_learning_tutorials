@@ -38,6 +38,9 @@ LightGBM is a powerful gradient boosting framework. This notebook provides an in
 ### SK9_Forecasting.ipynb
 Focusing on time series forecasting, this notebook covers essential techniques and models for making predictions based on temporal data using the Facebook Prophet Python module. 
 
+### SK10_LDA_Iris.ipynb
+A mini tutorial on Linear Discriminant Analysis (LDA) on the Iris Dataset.
+
 ### Case_Study1_Predicting_Income_Status.ipynb
 This case study uses a real-world dataset to predict income status based on various features. It demonstrates the complete machine learning workflow, from data preprocessing and feature selection to model training, evaluation, and interpretation.
 
